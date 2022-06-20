@@ -1,2 +1,2 @@
 # Lua-Code-Editor
-A simple, static webpage based on Monaco (by Microsoft) to edit Lua code.
+A fork of Microsoft's Monaco code editor for writing code in the Lua programming language.
